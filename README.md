@@ -5,23 +5,23 @@
 This project involves creating an E-Commerce application with integrated JIRA for project management and GitHub for version control. I actively managed project tasks, sprints, and timelines in JIRA while collaborating through GitHub for code development and versioning.
 
 # Tools & Technologies
-JIRA: Project management, task tracking, backlog management, and sprint planning.
-GitHub: Version control, code repository, pull requests, and commit tracking.
+1. JIRA: Project management, task tracking, backlog management, and sprint planning.
+2. GitHub: Version control, code repository, pull requests, and commit tracking.
 
 # Key Contributions & Features
 
-**Managed Tasks with JIRA**: Created and organized boards (Kanban/Scrum) for task tracking, designed and prioritized backlogs, and ensured deadlines were met using timelines.
-**Integrated GitHub with JIRA**: Linked GitHub commits and pull requests to JIRA issues for seamless tracking and collaboration.
-**Form Design in JIRA**: Created custom issue forms for task categorization and data collection.
-**Agile Methodology**: Actively used Scrum/Kanban boards for sprint planning and task management.
-**Collaboration & Workflow**: Streamlined communication by using JIRA’s roadmap to manage project milestones and GitHub’s version control for code updates.
+1. **Managed Tasks with JIRA**: Created and organized boards (Kanban/Scrum) for task tracking, designed and prioritized backlogs, and ensured deadlines were met using timelines.
+2. **Integrated GitHub with JIRA**: Linked GitHub commits and pull requests to JIRA issues for seamless tracking and collaboration.
+3. **Form Design in JIRA**: Created custom issue forms for task categorization and data collection.
+4. **Agile Methodology**: Actively used Scrum/Kanban boards for sprint planning and task management.
+5. **Collaboration & Workflow**: Streamlined communication by using JIRA’s roadmap to manage project milestones and GitHub’s version control for code updates.
    
 # How I Benefited from JIRA
-**Efficient Task Management**: Organized tasks with clear priorities, ensuring timely delivery.
-**Agile Methodology**: Implemented Scrum and Kanban boards for better sprint planning and flexibility.
-**Enhanced Collaboration**: Streamlined communication with team members using shared boards and progress tracking.
-**Visual Project Tracking**: Used dashboards to monitor progress, identify bottlenecks, and optimize workflows.
-**Integration with GitHub**: Linked commits and pull requests to JIRA issues for seamless task and code tracking.
+1. **Efficient Task Management**: Organized tasks with clear priorities, ensuring timely delivery.
+2. **Agile Methodology**: Implemented Scrum and Kanban boards for better sprint planning and flexibility.
+3. **Enhanced Collaboration**: Streamlined communication with team members using shared boards and progress tracking.
+4. **Visual Project Tracking**: Used dashboards to monitor progress, identify bottlenecks, and optimize workflows.
+5. **Integration with GitHub**: Linked commits and pull requests to JIRA issues for seamless task and code tracking.
 
 # Scrum Board
 1. Visual tool for tracking task progress (To Do, In Progress, Done).
